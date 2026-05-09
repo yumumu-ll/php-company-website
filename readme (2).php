@@ -1,5 +1,4 @@
 <?php
-// 企业官网首页 - 应届生练手项目
 $siteName = "企业游乐设备官网";
 ?>
 <!DOCTYPE html>
